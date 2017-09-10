@@ -5,3 +5,4 @@
 5. 做实验用的是Anaconda里面集成的Jupyter Notebook，作图比较方便
 6. 小白认真写的第一个GitHub项目~欢迎大家指正~~（虽然我现在只有一个粉丝哈哈哈哈~~）
 
+这是一个用terminal操作git的尝试~~~

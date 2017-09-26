@@ -6,7 +6,7 @@ Some notes, assignments, labs while taking the course.
   - tags: csv | Cross Validation
 * [Lab3: Model Selection for Neural Data](https://github.com/Shangwen-Yan/Machine-Learning/tree/master/Labs/Lab3%20-%20Model%20Selection%20for%20Neural%20Data)
   - packages : numpy | matplotlib.pyplot | scipy.io | sklearn.linear_model | sklearn.preprocessing | sklearn.model_selection
-  - tags : LASSO | K-Fold | One Standard Error Rule | MATLAB Data | 
+  - tags : LASSO | K-Fold | One Standard Error Rule | MATLAB Data | 
 ## Study Notes
 * Sort of in mess...
 * Will collate them progressively！

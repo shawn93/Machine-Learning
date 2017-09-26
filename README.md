@@ -1,8 +1,8 @@
-1. 这是尚文酱在上机器学习课程时建立的项目
-2. 内容包含课上做的一些实验作业，以及学习过程中自己整理的笔记
-3. 一些笔记还没整理比较凌乱，会在之后慢慢让它变整齐~
-4. 开发环境用的是MacOS，然后Anaconda Python3
-5. 做实验用的是Anaconda里面集成的Jupyter Notebook，作图比较方便
-6. 小白认真写的第一个GitHub项目~欢迎大家指正~~（虽然我现在只有一个粉丝哈哈哈哈~~）
+#  EL-9123: Introduction to Machine Learning
+##Labs
+
+##Study Notes
+
+##Homework and Solutions
 
 

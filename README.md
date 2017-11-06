@@ -13,6 +13,9 @@ Some notes, assignments, labs while taking the course.
 * [Lab5 - Optimization for Audio Pitch Detection](https://github.com/Shangwen-Yan/Machine-Learning/tree/master/Labs/Lab5%20-%20Optimization%20for%20Audio%20Pitch%20Detection)
   - packages : scipy.io.wavfile | IPython.display | broadcast
   - tags : Optimization | Gradient Descent | Armijo Rule | FFT | First-Order Approximation | Audio File | Harmonics
+* [Lab6 - SVMs on Extended MNIST](https://github.com/Shangwen-Yan/Machine-Learning/tree/master/Labs/Lab6%20-%20SVMs%20on%20Extended%20MNIST)
+  - packages : skimage | matplotlib.image | Exception Control | sklearn.svm | pickle
+  - tags : Detection & Classification | Support Vector Machine | Confusion Matrix | OTSU threshold | Serialization | Interpolation
   
 ## Study Notes
 * Sort of in mess...
